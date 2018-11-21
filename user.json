@@ -1,5 +1,5 @@
 {
-  name: Dmytro,
-  surname: Mazurchak,
-  age: 29
+  "firstname": "Dmytro",
+  "lastname": "Mazurchak",
+  "age": 29
 }
