@@ -2,5 +2,6 @@
   "firstname": "Dmytro",
   "lastname": "Mazurchak",
   "age": 29,
+  "gender": "male",
   "occupation": "Horse Whisperer"
 }
