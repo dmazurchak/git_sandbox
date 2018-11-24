@@ -3,5 +3,6 @@
   "lastname": "Mazurchak",
   "age": 29,
   "gender": "male",
+  "city":"Kiev",
   "occupation": "Horse Whisperer"
 }
